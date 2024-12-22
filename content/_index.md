@@ -5,6 +5,8 @@ in_search_index = true
 [extra]
 +++
 
+<img src="https://github.com/gambhirmp/personalsite/blob/master/content/1000035833.png?raw=true" alt="Headshot of me!" width="190" align="right" />
+
 # About Me!
 
 I am a Junior at UPenn studying AI and looking to pursue a career in research. I will be applying to CS Phd programs in **Fall 2025**! My main research interests are in machine learning theory, notably fairness, uncertainty quantification and working under distribution shift.
