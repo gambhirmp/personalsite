@@ -5,7 +5,7 @@ in_search_index = true
 [extra]
 +++
 
-<img src="https://github.com/gambhirmp/personalsite/blob/master/content/1000035833.png?raw=true" alt="Headshot of me!" width="190" align="right" />
+<img src="https://github.com/gambhirmp/personalsite/blob/master/content/website_photo.jpg?raw=true" alt="Headshot of me!" width="190" align="right" />
 
 # About Me!
 
