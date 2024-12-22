@@ -1,14 +1,12 @@
 +++
-title = "Maya's Website"
+title = ""
 template = "index.html"
 in_search_index = true
 [extra]
 +++
 
-<img src="https://github.com/gambhirmp/personalsite/blob/master/content/website.png?raw=true" alt="Headshot of me!" width="190" align="left" style="padding: 20px;" >
-
 # About Me!
 
-I am a Junior at UPenn studying AI and looking to pursue a career in research. I will be applying to CS Phd programs in **Fall 2025**! My main research interests are in machine learning theory, notably fairness, uncertainty quantification and working under distribution shift.
+I am a junior at UPenn studying AI and looking to pursue a career in research. I will be applying to CS Phd programs in <u>Fall 2025!</u> My main research interests are in machine learning theory, notably fairness, uncertainty quantification and working under distribution shift.
 
 

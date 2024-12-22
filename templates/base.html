@@ -53,13 +53,15 @@
 <body>
     <header>
     <div class="top">
-        {% if config.extra.avatar -%}
-		<div class="avatar">
-			<a href="/">
-                {{ images::responsive_image(path="", src=config.extra.avatar, default_size=128, sizes=[64,128,256], alt=config.title  ) }}
-			</a>
-		</div>
-	    {% endif -%}
+
+            <!-- Adding your image -->
+            <div class="header-image" style="margin-right: 20px;">
+                <img 
+                    src="https://github.com/gambhirmp/personalsite/blob/master/content/website.png?raw=true" 
+                    alt="Header Image" 
+                    style="width: 150px; padding: 10px; vertical-align: top;"
+                />
+            </div>
         <div class="details">
             <a class="site-name"
             href="/">
