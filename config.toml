@@ -69,8 +69,8 @@ link_github_username = "gambhirmp"
 # link_instagram_username = ""
 
 menu_links = [
-    { url = "$BASE_URL/", name = "About" },
-    { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" },
+    { url = "$BASE_URL/", name = "About" }, 
+    { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" }, 
     { url = "https://drive.google.com/file/d/1FoN1_PARpH2gSzROWRrBSy5YB0RA26aR/view?usp=sharing", name = "Resume" },
     { url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
     #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
