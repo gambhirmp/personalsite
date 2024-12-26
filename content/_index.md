@@ -7,7 +7,7 @@ in_search_index = true
 
 # <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
 
-Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a junior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in (machine learning) research, am actively seeking research internships for *this summer* and will be applying to CS PhD programs in <u>Fall 2025</u>.
+Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a junior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in (machine learning) research, am actively seeking <u>research internships</u> for this summer and will be applying to CS PhD programs in <u>Fall 2025</u>.
 
 ---
 
