@@ -1,9 +1,11 @@
 theme = 'zola-inky'
 title = "Maya Pal Gambhir"
-description = "Welcome!"
+description = "Welcome to Maya Gambhir's personal website!"
 
 # The URL the site will be built for
 base_url = "https://mayapalgambhir.com"
+
+generate_feeds = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -60,16 +62,16 @@ thumbnail_default_size = 256
 thumbnail_sizes = [128, 256]
 
 
-link_github_username = "jimmyff/zola-inky"
+link_github_username = "gambhirmp"
 # link_twitter_username = ""
 # link_mastodon_url = ""
 # link_medium_username = ""
 # link_instagram_username = ""
 
 menu_links = [
-    #{ url = "$BASE_URL/", name = "About" },
-    #{ url = "$BASE_URL/posts/", name = "Posts" },
-    #{ url = "$BASE_URL/gallery/", name = "Gallery" },
+    { url = "$BASE_URL/", name = "About" },
+    { url = "$BASE_URL/Publications-Projects/", name = "Publications/Projects" },
+    { url = "https://drive.google.com/file/d/1ZJ7Qvf0zoBU_WguHtRgeumm7LnvKbhyZ/view?usp=sharing", name = "Resume" },
     #{ url = "$BASE_URL/tags/", name = "Tags" },
     # { url = "https://github.com/jimmyff/zola-inky", name = "Github" },
     #{ url = "$BASE_URL/search/", name = "Search" },
