@@ -1,6 +1,6 @@
 theme = 'zola-inky'
 title = "Maya Pal Gambhir"
-description = "Welcome!"
+description = "Maya Gambhir's Personal Website"
 
 # The URL the site will be built for
 base_url = "https://mayapalgambhir.com"
@@ -67,10 +67,13 @@ link_github_username = "jimmyff/zola-inky"
 # link_instagram_username = ""
 
 menu_links = [
-    #{ url = "$BASE_URL/", name = "About" },
-    #{ url = "$BASE_URL/posts/", name = "Posts" },
+    { url = "$BASE_URL/", name = "About" },
+    { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" },
+    { url = "https://drive.google.com/file/d/1FoN1_PARpH2gSzROWRrBSy5YB0RA26aR/view?usp=sharing", name = "Resume" },
+    { url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
+    #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
     #{ url = "$BASE_URL/gallery/", name = "Gallery" },
     #{ url = "$BASE_URL/tags/", name = "Tags" },
-    # { url = "https://github.com/jimmyff/zola-inky", name = "Github" },
+    # { url = "https://github.com/gambhirm", name = "Github" },
     #{ url = "$BASE_URL/search/", name = "Search" },
 ]
