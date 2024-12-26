@@ -1,9 +1,15 @@
 theme = 'zola-inky'
 title = "Maya Pal Gambhir"
+<<<<<<< HEAD
 description = "Maya Gambhir's Personal Website"
+=======
+description = "Welcome to Maya Gambhir's personal website!"
+>>>>>>> 2fd66cee602562c305228b8a9533170ce086f03f
 
 # The URL the site will be built for
 base_url = "https://mayapalgambhir.com"
+
+generate_feeds = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -60,7 +66,7 @@ thumbnail_default_size = 256
 thumbnail_sizes = [128, 256]
 
 
-link_github_username = "jimmyff/zola-inky"
+link_github_username = "gambhirmp"
 # link_twitter_username = ""
 # link_mastodon_url = ""
 # link_medium_username = ""
@@ -68,11 +74,16 @@ link_github_username = "jimmyff/zola-inky"
 
 menu_links = [
     { url = "$BASE_URL/", name = "About" },
+<<<<<<< HEAD
     { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" },
     { url = "https://drive.google.com/file/d/1FoN1_PARpH2gSzROWRrBSy5YB0RA26aR/view?usp=sharing", name = "Resume" },
     { url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
     #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
     #{ url = "$BASE_URL/gallery/", name = "Gallery" },
+=======
+    #{ url = "$BASE_URL/Publications-Projects/", name = "Publications/Projects" },
+    { url = "https://drive.google.com/file/d/1ZJ7Qvf0zoBU_WguHtRgeumm7LnvKbhyZ/view?usp=sharing", name = "Resume" },
+>>>>>>> 2fd66cee602562c305228b8a9533170ce086f03f
     #{ url = "$BASE_URL/tags/", name = "Tags" },
     # { url = "https://github.com/gambhirm", name = "Github" },
     #{ url = "$BASE_URL/search/", name = "Search" },
