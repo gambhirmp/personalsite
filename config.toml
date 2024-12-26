@@ -70,7 +70,7 @@ link_github_username = "gambhirmp"
 
 menu_links = [
     { url = "$BASE_URL/", name = "About" },
-    { url = "$BASE_URL/Publications-Projects/", name = "Publications/Projects" },
+    #{ url = "$BASE_URL/Publications-Projects/", name = "Publications/Projects" },
     { url = "https://drive.google.com/file/d/1ZJ7Qvf0zoBU_WguHtRgeumm7LnvKbhyZ/view?usp=sharing", name = "Resume" },
     #{ url = "$BASE_URL/tags/", name = "Tags" },
     # { url = "https://github.com/jimmyff/zola-inky", name = "Github" },
