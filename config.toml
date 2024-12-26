@@ -1,10 +1,6 @@
 theme = 'zola-inky'
 title = "Maya Pal Gambhir"
-<<<<<<< HEAD
-description = "Maya Gambhir's Personal Website"
-=======
 description = "Welcome to Maya Gambhir's personal website!"
->>>>>>> 2fd66cee602562c305228b8a9533170ce086f03f
 
 # The URL the site will be built for
 base_url = "https://mayapalgambhir.com"
