@@ -23,7 +23,7 @@ As I look to possible next projects I am interested in pursuing questions surrou
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Non-Academic Interests</span>
 
-My main extra-academia passions are in the performing arts! I'm the president of Penn's first and only comedy a capella group, [Penn Six](https://www.instagram.com/pennsixacapella/) (or Pennsylvania Six Five-Thousand). One of my greatest joys is to write and perform both a capella arrangements and comedy skits with these beautiful people. I am also an intermittent beginner guitar player, and an avid (and passionate) singer of musical theater soundtracks in my car and elsewhere.
+My main extra-academia passions are in the performing arts! I'm the president of Penn's first and only comedy a capella group, [Penn Six](https://www.instagram.com/pennsixacapella/) (or Pennsylvania Six Five-Thousand). One of my greatest joys is to write and perform both a capella arrangements and comedy skits with these beautiful people. I am also an intermittent beginner guitar player, and a frequent (and passionate) singer of musical theater soundtracks in my car and elsewhere.
 
 ---
 
@@ -38,4 +38,4 @@ My main extra-academia passions are in the performing arts! I'm the president of
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Contact Me</span>
 
 - **Email:** [gambhirm@seas.upenn.edu](mailto:gambhirm@seas.upenn.edu)  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maya-gambhir/)
+- [**LinkedIn:**](https://www.linkedin.com/in/maya-gambhir/)

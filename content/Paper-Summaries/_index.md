@@ -6,4 +6,6 @@ in_search_index = true
 +++
 
 
-Hoping to add some summaries of papers I read here!
+Coming soon...
+
+First one will be: "Beyond Perturbations: Learning Guarantees with Arbitrary Adversarial Test Examples" by Goldwasser et al. 
