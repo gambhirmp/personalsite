@@ -38,4 +38,4 @@ My main extra-academia passions are in the performing arts! I'm the president of
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Contact Me</span>
 
 - **Email:** [gambhirm@seas.upenn.edu](mailto:gambhirm@seas.upenn.edu)  
-- [**LinkedIn:**](https://external.ink?to=/www.linkedin.com/in/maya-gambhir/)
+- [**LinkedIn**](https://external.ink?to=/www.linkedin.com/in/maya-gambhir/)
