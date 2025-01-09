@@ -71,7 +71,7 @@ link_github_username = "gambhirmp"
 menu_links = [
     { url = "$BASE_URL/", name = "About" }, 
     { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" }, 
-    { url = "https://github.com/gambhirmp/personalsite/blob/b35c3c3ea2a15e73a4d434ab038e65dbaaace9c4/content/Maya_Gambhir_Resume.pdf", name = "Resume" },
+    { url = "https://github.com/gambhirmp/personalsite/blob/13cbe0e9af03522603683ec2640ed54e5716cfcd/content/Maya_Gambhir_Resume.pdf", name = "Resume" },
     { url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
     #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
     #{ url = "$BASE_URL/gallery/", name = "Gallery" },
