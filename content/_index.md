@@ -13,7 +13,7 @@ Hello person who has stumbled upon - or perhaps actively searched for - my perso
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Current Work</span>
 
-My most recent project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024 (my first conference!).
+My most recent project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and was accepted to **ICLR 2025**.
 
 I also recently looked into applying conformal prediction to neural network extensions of monte-carlo image denoising and using causal inference to represent bias in word embeddings as final projects for [CIS 6200](https://uncertaintyclass.com/) (Aaron Roth) and [CIS 6250](https://www.cis.upenn.edu/~mkearns/teaching/CIS625/) (Michael Kearns), formal writeups forthcoming.
 
