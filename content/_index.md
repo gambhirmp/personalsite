@@ -5,7 +5,7 @@ in_search_index = true
 [extra]
 +++
 
-# <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
+## <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
 
 Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be applying to CS PhD programs in <u>Fall 2025</u>.
 --- 
