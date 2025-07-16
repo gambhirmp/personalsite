@@ -10,7 +10,7 @@ in_search_index = true
 Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be applying to CS PhD programs in Fall 2025.
 --- 
 
-My research interests are focused in social choice, algorithmic game theory and their applications in learning theory, democratic decision making and fair resource allocation. 
+My research interests are in social choice, algorithmic game theory and their applications in learning theory, democratic decision making and fair resource allocation. 
 ---
 
 ## Current Work
