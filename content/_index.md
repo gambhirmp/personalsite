@@ -7,10 +7,10 @@ in_search_index = true
 
 # <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
 
-Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in theoretical CS research and will be applying to CS PhD programs in <u>Fall 2025</u>.
+Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be applying to CS PhD programs in <u>Fall 2025</u>.
 --- 
 
-My research interests are focused in social choice, algorithmic game theory and their applications learning theory, democratic decision making and fair resource allocation. 
+My research interests are focused in <b>social choice</b>, <b>algorithmic game theory</b> and their applications in learning theory, democratic decision making and fair resource allocation. 
 ---
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Current Work</span>
