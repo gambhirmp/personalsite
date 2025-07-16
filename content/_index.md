@@ -5,7 +5,7 @@ in_search_index = true
 [extra]
 +++
 
-## <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
+# About Me!
 
 Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be applying to CS PhD programs in <u>Fall 2025</u>.
 --- 
@@ -13,7 +13,7 @@ Hello person who has stumbled upon - or perhaps actively searched for - my perso
 My research interests are focused in <b>social choice</b>, <b>algorithmic game theory</b> and their applications in learning theory, democratic decision making and fair resource allocation. 
 ---
 
-## <span style="color: rgb(227,5,173); font-size: 25px;">Current Work</span>
+## Current Work
 
 Currently, I am working with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. 
 
@@ -23,13 +23,13 @@ My last project involved using conformal prediction methods to get factuality gu
 
 ---
 
-## <span style="color: rgb(227,5,173); font-size: 25px;">Non-Academic Interests</span>
+## Non-Academic Interests
 
 My main extra-academia passions are in the performing arts! I'm the president of Penn's first and only comedy a capella group, [Penn Six](https://www.instagram.com/pennsixacapella/) (or Pennsylvania Six Five-Thousand). One of my greatest joys is to write and perform both a capella arrangements and comedy skits with these beautiful people. I am also an intermittent beginner guitar player, and a frequent (and passionate) singer of musical theater soundtracks in my car and elsewhere.
 
 ---
 
-## <span style="color: rgb(227,5,173); font-size: 25px;">People I Work(ed) With</span>
+## People I Work(ed) With
 
 *Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS)
 
@@ -37,7 +37,7 @@ My main extra-academia passions are in the performing arts! I'm the president of
 
 ---
 
-## <span style="color: rgb(227,5,173); font-size: 25px;">Contact Me</span>
+## Contact Me
 
 - **Email:** [gambhirm@seas.upenn.edu](mailto:gambhirm@seas.upenn.edu)  
 - [**LinkedIn**](https://www.linkedin.com/in/maya-gambhir/)
