@@ -8,6 +8,7 @@ in_search_index = true
 # <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
 
 Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in theoretical CS research and will be applying to CS PhD programs in <u>Fall 2025</u>.
+--- 
 
 My research interests are focused in social choice, algorithmic game theory and their applications learning theory, democratic decision making and fair resource allocation. 
 ---
@@ -18,7 +19,7 @@ Currently, I am working with [Bailey Flanigan](https://sites.google.com/mit.edu/
 
 --- 
 
-My last  project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and it has been accepted to **ICLR 2025**.
+My last project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). I worked with faculty [Surbhi Goel](https://www.surbhigoel.com/) (UPenn) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) (as well as [Max Rubin-Toles](https://linktr.ee/maxonbion) and [Keshav Ramji](https://www.keshavramji.com/)). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and it has been accepted to **ICLR 2025**.
 
 ---
 
