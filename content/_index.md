@@ -17,9 +17,9 @@ My research interests are in social choice, algorithmic game theory and their ap
 
 ## Current Work
 
-Currently, I am working with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. 
+Currently, I am working with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. This is a new approach the alternate dropouts problem outlined in [Assos et. al](https://dl.acm.org/doi/abs/10.1145/3736252.3742614).
 
---- 
+
 
 My last project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). I worked with faculty [Surbhi Goel](https://www.surbhigoel.com/) (UPenn) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) (as well as [Max Rubin-Toles](https://linktr.ee/maxonbion) and [Keshav Ramji](https://www.keshavramji.com/)). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and it has been accepted to **ICLR 2025**.
 
