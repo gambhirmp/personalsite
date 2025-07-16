@@ -33,7 +33,7 @@ My main extra-academia passions are in the performing arts! I'm the president of
 
 *Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS)
 
-*Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Penn '25, now doing his PhD @ Harvard), [Keshav Ramji](https://www.keshavramji.com/) (Penn '24, IBM Research)
+*Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Harvard CS), [Keshav Ramji](https://www.keshavramji.com/) (IBM Research AI)
 
 ---
 
