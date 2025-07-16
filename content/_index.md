@@ -9,13 +9,15 @@ in_search_index = true
 
 Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a junior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in theoretical CS research and will be applying to CS PhD programs in <u>Fall 2025</u>.
 
+My research interests are largely focused in social choice, algorithmic game theory and learning theory. 
 ---
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Current Work</span>
 
-My most recent project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and it has been accepted to **ICLR 2025**.
-
 Currently, I am working with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. 
+
+My last  project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and it has been accepted to **ICLR 2025**.
+
 ---
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Non-Academic Interests</span>
