@@ -72,7 +72,7 @@ menu_links = [
     { url = "$BASE_URL/", name = "About" }, 
     { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" }, 
     { url = "https://github.com/gambhirmp/personalsite/blob/7de3933c3e2b162c3df4937e3ebedf38789c5ab1/content/Maya_Gambhir_Resume.pdf", name = "Resume" },
-    { url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
+    #{ url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
     #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
     #{ url = "$BASE_URL/gallery/", name = "Gallery" },
     #{ url = "$BASE_URL/tags/", name = "Tags" },

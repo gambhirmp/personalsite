@@ -7,7 +7,7 @@ in_search_index = true
 
 # <span style="color: rgb(227,5,173); font-size: 32px;">About Me!</span>
 
-Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a junior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in (machine learning) research, am actively seeking <u>research internships</u> for this summer and will be applying to CS PhD programs in <u>Fall 2025</u>.
+Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a junior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am looking to pursue a career in theoretical CS research and will be applying to CS PhD programs in <u>Fall 2025</u>.
 
 ---
 
@@ -15,10 +15,7 @@ Hello person who has stumbled upon - or perhaps actively searched for - my perso
 
 My most recent project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems, which was inspired by a paper from [Mohri and Hashimoto](https://arxiv.org/abs/2402.10978). This paper filtered subsets of language model outputs using a calibrated threshold of a heuristic confidence score, and employed graphical representations of reasoning paths to ensure outputs were coherent as well as factual. We presented this work at the **Stastisical Frontiers of Large Language Models workshop @ NeurIps 2024** (my first conference!) and it has been accepted to **ICLR 2025**.
 
-I also recently looked into applying conformal prediction to neural network extensions of monte-carlo image denoising and using causal inference to represent bias in word embeddings as final projects for [CIS 6200](https://uncertaintyclass.com/) (Aaron Roth) and [CIS 6250](https://www.cis.upenn.edu/~mkearns/teaching/CIS625/) (Michael Kearns), formal writeups forthcoming.
-
-As I look to possible next projects I am interested in pursuing questions surrounding distribution shift, and unconvering what guarantees are possible in such a setup, as well as general questions of uncertainty quantification and fairness!
-
+Currently, I am working with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (UPenn) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. 
 ---
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">Non-Academic Interests</span>
@@ -29,9 +26,9 @@ My main extra-academia passions are in the performing arts! I'm the president of
 
 ## <span style="color: rgb(227,5,173); font-size: 25px;">People I Work(ed) With</span>
 
-*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS)
+*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS)
 
-*Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Penn '25), [Keshav Ramji](https://www.keshavramji.com/) (Penn '24, IBM Research)
+*Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Penn '25, now doing his PhD @ Harvard), [Keshav Ramji](https://www.keshavramji.com/) (Penn '24, IBM Research)
 
 ---
 
