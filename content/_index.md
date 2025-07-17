@@ -7,7 +7,7 @@ in_search_index = true
 
 # About Me!
 
-Hello person who has stumbled upon - or perhaps actively searched for - my personal website! I'm Maya and I am a senior at UPenn in the brand new [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be applying to CS PhD programs in Fall 2025.
+Welcome to my personal website! I'm Maya and I am a senior at UPenn in the [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be applying to CS PhD programs in Fall 2025.
 
 
 
