@@ -11,7 +11,7 @@ Welcome to my personal website! I'm Maya and I am a senior at UPenn in the [Arti
 
 
 
-My research interests are in social choice, algorithmic game theory and their applications in learning theory, democratic decision making and fair resource allocation. 
+My research interests center on social choice theory and algorithmic game theory, with a focus on their applications to problems in learning theory, democratic decision-making, and fair resource allocation.
 
 ---
 
