@@ -40,6 +40,7 @@ My main extra-academia passions are in the performing arts! I'm the president of
 ---
 
 ## Contact Me
-
-- **Email:** [gambhirm@seas.upenn.edu](mailto:gambhirm@seas.upenn.edu)  
-- [**LinkedIn**](https://www.linkedin.com/in/maya-gambhir/)
+- **Email:** [gambhirm@seas.upenn.edu](mailto:gambhirm@seas.upenn.edu)
+- **LinkedIn:** [maya-gambhir](https://www.linkedin.com/in/maya-gambhir/)
+- **GitHub:** [gambhirmp](https://github.com/gambhirmp)
+- **Google Scholar:** [Maya Pal Gambhir](https://scholar.google.com/citations?user=B77cCUQAAAAJ&hl=en)

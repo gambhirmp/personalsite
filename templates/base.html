@@ -45,6 +45,9 @@
           rel="stylesheet">
     <link rel="stylesheet"
           href="{{ get_url(path='base.css',trailing_slash=false)|safe}}">
+    <!-- Dark mode styles - must come after base.css -->
+    <link rel="stylesheet" href="{{ get_url(path='dark-mode.css') }}">
+    <script src="{{ get_url(path='js/dark-mode.js') }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.28.0/feather.min.js"
             integrity="sha512-7x3zila4t2qNycrtZ31HO0NnJr8kg2VI67YLoRSyi9hGhRN66FHYWr7Axa9Y1J9tGYHVBPqIjSE1ogHrJTz51g=="
             crossorigin="anonymous"></script>
@@ -72,14 +75,21 @@
             </div>
         </div>
     
-        {% if config.extra.search_path -%}
-        {% set search_url = config.extra.search_path  | replace(from="$BASE_URL", to=config.base_url) -%}
-        <div class="right-button">
-            <a href="{{ search_url }}" alt="Search" class="{% if current_url and current_url==search_url %}active{%  endif %}">
-                🔎
-            </a>
+        <div class="header-controls">
+            <!-- Dark mode toggle -->
+            <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+                🌙
+            </button>
+            
+            {% if config.extra.search_path -%}
+            {% set search_url = config.extra.search_path  | replace(from="$BASE_URL", to=config.base_url) -%}
+            <div class="right-button">
+                <a href="{{ search_url }}" alt="Search" class="{% if current_url and current_url==search_url %}active{%  endif %}">
+                    🔎
+                </a>
+            </div>
+            {% endif -%}
         </div>
-        {% endif -%}
     </div>
         <nav>
             <div class="links"> 
@@ -195,6 +205,32 @@
     </footer>
     <script>
         feather.replace();
+        
+        // Simple dark mode test
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('Simple dark mode test loaded');
+            const btn = document.getElementById('dark-mode-toggle');
+            if (btn) {
+                console.log('Button found!');
+                
+                // Set initial icon based on current theme (show current state)
+                const initialTheme = document.documentElement.getAttribute('data-theme') || 'light';
+                btn.innerHTML = initialTheme === 'dark' ? '🌙' : '☀️';
+                
+                btn.addEventListener('click', function() {
+                    console.log('Button clicked!');
+                    const html = document.documentElement;
+                    const current = html.getAttribute('data-theme') || 'light';
+                    const newTheme = current === 'dark' ? 'light' : 'dark';
+                    console.log('Changing from', current, 'to', newTheme);
+                    html.setAttribute('data-theme', newTheme);
+                    // Show current state (what you're now in)
+                    btn.innerHTML = newTheme === 'dark' ? '🌙' : '☀️';
+                });
+            } else {
+                console.log('Button NOT found!');
+            }
+        });
     </script> 
     {% block body_end -%} 
     {% endblock body_end -%}
