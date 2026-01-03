@@ -1,4 +1,4 @@
-theme = 'zola-inky'
+theme = 'zap'
 title = "Maya Pal Gambhir"
 description = "Welcome to my personal website!"
 
@@ -71,8 +71,7 @@ link_github_username = "gambhirmp"
 menu_links = [
     { url = "$BASE_URL/", name = "About" }, 
     { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" }, 
-    { url = "https://drive.google.com/file/d/1lyop5CGM-Y3F39VEmiW_GRtfSjpLNPeA/view?usp=sharing", name = "Resumé"},
-    { url = "https://drive.google.com/file/d/1seJHImUBkjqmXe3kKooF2HEk2mH2wCJy/view?usp=sharing", name = "CV"},
+    { url = "https://drive.google.com/file/d/1N4SRL14pkZ25jZUkfJrQCutucrPxe1tj/view?usp=sharing", name = "CV"},
     #{ url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
     #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
     #{ url = "$BASE_URL/gallery/", name = "Gallery" },

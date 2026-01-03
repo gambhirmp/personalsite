@@ -1,6 +1,6 @@
-{# 
-    Original author: crepererum https://github.com/getzola/even/pull/48/files 
-    Adapted to Inky template by jimmyff
+{#
+    Original author: crepererum https://github.com/getzola/even/pull/48/files
+    Adapted to Zap template by jimmyff
 #}
 
 {% if config.extra.image_resizing_disabled and config.extra.image_resizing_disabled == true %}
@@ -19,4 +19,4 @@
 {% endfor %}
 {% set default_resized = resize_image(format=config.extra.image_format, path=abspath, width=config.extra.images_default_size, height=config.extra.images_default_size, op="fill", quality=config.extra.thumbnail_quality) %}
 <img alt="{{ alt }}" src="{{ default_resized.url | safe }}" srcset="{{ srcset_list | join(sep=", ") | safe }}" />
-{% endif %}1
+{% endif %}
