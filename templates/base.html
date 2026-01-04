@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;margin:2rem 0 1em}
 h1::before{content:'# '}
 h2::before{content:'## '}
 h3::before{content:'### '}
-p{text-align:left}p,ul,ol,.g,article>footer,article>header{margin:0 0 2em}
+p{text-align:justify}p,ul,ol,.g,article>footer,article>header{margin:0 0 2em}
 pre,blockquote{padding:1.5rem;margin:0 0 1.5rem}pre{overflow-x:auto}pre code{background:0!important}blockquote>*:last-child{margin-bottom:0}
 article>img,article>p>img,article>div{display:block;margin-bottom:1.5rem;width:100%}
 .yt{aspect-ratio:16/9;width:100%;overflow:hidden}.yt iframe{width:100%;height:100%;border:0}
@@ -75,7 +75,7 @@ nav{display:flex;gap:.5rem;margin:1.5rem 0}nav a{flex:1;display:flex;flex-direct
     <header>
         <div class="s" style="display:flex;justify-content:space-between;align-items:center">
             <span><strong>{{ config.title }}</strong>{% if config.description %}<span class="desc"> · {{ config.description }}</span>{% endif %}</span>
-            <!-- <a href="#" onclick="T();return false" class="theme" aria-label="Toggle theme" title="Toggle theme">{% if config.extra.inline_icons %}{{ icons::icon(name="light.svg") }}{{ icons::icon(name="asleep.svg") }}{% else %}<img src="/icons/light.svg" alt="Light mode"><img src="/icons/asleep.svg" alt="Dark mode">{% endif %}</a> -->
+            <a href="#" onclick="T();return false" class="theme" aria-label="Toggle theme" title="Toggle theme">{% if config.extra.inline_icons %}{{ icons::icon(name="light.svg") }}{{ icons::icon(name="asleep.svg") }}{% else %}<img src="/icons/light.svg" alt="Light mode"><img src="/icons/asleep.svg" alt="Dark mode">{% endif %}</a>
         </div>
         <hr>
         <nav>
@@ -84,9 +84,7 @@ nav{display:flex;gap:.5rem;margin:1.5rem 0}nav a{flex:1;display:flex;flex-direct
             {% set current_url_slash = current_url ~ "/" -%}
             {% set base_url_slash = config.base_url ~ "/" -%}
             {% set is_home = link_url == config.base_url or link_url == base_url_slash -%}
-            {# Zola 0.17 compatibility: emulate starts_with using truncate on strings #}
-            {% set current_prefix = current_url | truncate(length=link_url | length, end="") -%}
-            {% set is_active = current_url == link_url or current_url_slash == link_url or (not is_home and current_prefix == link_url) -%}
+            {% set is_active = current_url == link_url or current_url_slash == link_url or (not is_home and current_url is starting_with(link_url)) -%}
             <a href="{{ link_url | safe}}" aria-label="{{menu_link.name}}"{% if current_url and is_active %} class="active"{% endif %}>{% if menu_link.icon %}{% if config.extra.inline_icons %}{{ icons::icon(name=menu_link.icon) }}{% else %}<img src="/icons/{{menu_link.icon}}" alt="">{% endif %}{% elif menu_link.emoji %}<span>{{menu_link.emoji}}</span>{% endif %}<span class="s">{{menu_link.name}}</span></a>
             {% endfor -%}
         </nav>
