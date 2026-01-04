@@ -1,3 +1,6 @@
 [submodule "themes/zola-inky"]
 	path = themes/zola-inky
 	url = https://github.com/jimmyff/zola-inky/
+[submodule "themes/zap"]
+	path = themes/zap
+	url = https://github.com/jimmyff/zola-zap
