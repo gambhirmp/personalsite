@@ -84,7 +84,9 @@ nav{display:flex;gap:.5rem;margin:1.5rem 0}nav a{flex:1;display:flex;flex-direct
             {% set current_url_slash = current_url ~ "/" -%}
             {% set base_url_slash = config.base_url ~ "/" -%}
             {% set is_home = link_url == config.base_url or link_url == base_url_slash -%}
-            {% set is_active = current_url == link_url or current_url_slash == link_url or (not is_home and current_url is starting_with(link_url)) -%}
+            {# Zola 0.17 compatibility: emulate starts_with using truncate on strings #}
+            {% set current_prefix = current_url | truncate(length=link_url | length, end="") -%}
+            {% set is_active = current_url == link_url or current_url_slash == link_url or (not is_home and current_prefix == link_url) -%}
             <a href="{{ link_url | safe}}" aria-label="{{menu_link.name}}"{% if current_url and is_active %} class="active"{% endif %}>{% if menu_link.icon %}{% if config.extra.inline_icons %}{{ icons::icon(name=menu_link.icon) }}{% else %}<img src="/icons/{{menu_link.icon}}" alt="">{% endif %}{% elif menu_link.emoji %}<span>{{menu_link.emoji}}</span>{% endif %}<span class="s">{{menu_link.name}}</span></a>
             {% endfor -%}
         </nav>
