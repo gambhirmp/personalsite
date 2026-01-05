@@ -1,5 +1,46 @@
 {% extends "base.html" %}
 
+{% block head_extra %}
+<style>
+.two-column-section {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+.two-column-content {
+    flex: 1;
+}
+.two-column-content > *:last-child {
+    margin-bottom: 0;
+}
+.two-column-image {
+    flex: 0 0 300px;
+    max-width: 300px;
+    margin-top: 0rem;
+    align-self: stretch;
+    display: flex;
+}
+.two-column-image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    object-fit: cover;
+    object-position: top;
+}
+@media (max-width: 768px) {
+    .two-column-section {
+        flex-direction: column;
+    }
+    .two-column-image {
+        flex: 1;
+        max-width: 100%;
+        margin-top: 1rem;
+    }
+}
+</style>
+{% endblock head_extra %}
+
 {% block content %}
 <article>{{ section.content | safe }}</article>
 
