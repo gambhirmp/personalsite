@@ -14,8 +14,8 @@ in_search_index = true
 
 # Projects 
 
-- [Progress Report: Privacy-preserving Synthetic Data Generation for Sortition Algorithms](thesis_prog.pdf)
+- **[Progress Report: Privacy-preserving Synthetic Data Generation for Sortition Algorithms](thesis_prog.pdf)**
 
-- [RLHF Literature Review](RLHF_review.pdf)
+- **[RLHF Literature Review](RLHF_review.pdf)**
 
-- [Noise-less Guarantees in Monte Carlo Path Tracing via Conformal Prediction Methods](MCPT_CP.pdf)
+- **[Noise-less Guarantees in Monte Carlo Path Tracing via Conformal Prediction Methods](MCPT_CP.pdf)**
