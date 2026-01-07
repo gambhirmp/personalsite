@@ -10,7 +10,7 @@ in_search_index = true
 - **Gambhir, Maya Pal**, Bailey Flanigan, and Aaron Roth. "**[Near-Optimal Dropout-Robust Sortition.](https://arxiv.org/abs/2511.16897)**" arXiv preprint arXiv:2511.16897 (2025).
 
 
--  **Gambhir, Maya Pal**, Rubin-Toles, Maxon, Ramji, Keshav, Roth, Aaron, & Goel, Surbhi **[Conformal Language Model Reasoning with Coherent Factuality](https://arxiv.org/abs/2511.16897)**. In The Thirteenth International Conference on Learning Representations.
+-  **Gambhir, Maya Pal**, Rubin-Toles, Maxon, Ramji, Keshav, Roth, Aaron, & Goel, Surbhi **[Conformal Language Model Reasoning with Coherent Factuality](https://arxiv.org/abs/2505.17126)**. In The Thirteenth International Conference on Learning Representations.
 
 # Projects 
 
