@@ -39,7 +39,7 @@ Previously, I worked with [Bailey Flanigan](https://sites.google.com/mit.edu/bai
 
 # People I Work(ed) With
 
-*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS)
+*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS, Political Science)
 
 *Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Harvard CS), [Keshav Ramji](https://www.keshavramji.com/) (IBM Research AI)
 
