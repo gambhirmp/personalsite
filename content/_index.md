@@ -32,13 +32,10 @@ Currently, I am working my undergraduate thesis with [Bailey Flanigan](https://s
 
 Previously, I worked with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. You can read the paper [here](https://arxiv.org/abs/2511.16897). Prior to that, I led a project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems. I worked with faculty [Surbhi Goel](https://www.surbhigoel.com/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). You can read the paper [here](https://arxiv.org/abs/2505.17126).
 
----
-
-# Non-Academic Interests
-
-My main extra-academia passions are in the performing arts! I'm the president of Penn's first and only comedy a capella group, [Penn Six](https://www.instagram.com/pennsixacapella/) (or Pennsylvania Six Five-Thousand). One of my greatest joys is to write and perform both a capella arrangements and comedy skits with these beautiful people. I am also an intermittent beginner guitar player, and a frequent (and passionate) singer of musical theater soundtracks in my car and elsewhere.
-
----
+# Teaching Assistant Positions
+- CIS 4230, Ethical Algorithm Design
+- CIS 3333, Mathematics of Machine Learning
+- CIS 1600, Mathematical Foundations of Computer Science
 
 # People I Work(ed) With
 
@@ -46,4 +43,8 @@ My main extra-academia passions are in the performing arts! I'm the president of
 
 *Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Harvard CS), [Keshav Ramji](https://www.keshavramji.com/) (IBM Research AI)
 
+---
 
+# Non-Academic Interests
+
+My main extra-academia passions are in the performing arts! I'm the president of Penn's first and only comedy a capella group, [Penn Six](https://www.instagram.com/pennsixacapella/) (or Pennsylvania Six Five-Thousand). One of my greatest joys is to write and perform both a capella arrangements and comedy skits with these beautiful people. I am also an intermittent beginner guitar player, and a frequent (and passionate) singer of musical theater soundtracks in my car and elsewhere.
