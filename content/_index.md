@@ -21,7 +21,7 @@ I’m interested in how algorithmic decision-making systems can be made more fai
 
 # **Contact Me**
 - **Email:**  gambhirm@seas.upenn.edu
-- **LinkedIn:** [maya-gambhir](https://www.linkedin.com/in/maya-pal-gambhir/)
+- **LinkedIn:** [maya-pal-gambhir](https://www.linkedin.com/in/maya-pal-gambhir/)
 - **Google Scholar:** [Maya Pal Gambhir](https://scholar.google.com/citations?user=B77cCUQAAAAJ&hl=en)
 
 ---
@@ -39,7 +39,7 @@ Previously, I worked with [Bailey Flanigan](https://sites.google.com/mit.edu/bai
 
 # People I Work(ed) With
 
-*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS, Political Science)
+*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS, Poli Sci)
 
 *Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Harvard CS), [Keshav Ramji](https://www.keshavramji.com/) (IBM Research AI)
 
