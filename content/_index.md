@@ -30,7 +30,7 @@ I’m interested in how algorithmic decision-making systems can be made more fai
 
 Currently, I am working my undergraduate thesis with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Surbhi Goel](https://www.surbhigoel.com/), generating synthetic data for evaluating sorition algorithms. 
 
-Previously, I worked with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. You can read the paper [here](https://arxiv.org/abs/2511.16897). Prior to that, I led a project involved using conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems. I worked with faculty [Surbhi Goel](https://www.surbhigoel.com/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). You can read the paper [here](https://arxiv.org/abs/2505.17126).
+Previously, I worked with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels. You can read the paper [here](https://arxiv.org/abs/2511.16897). Prior to that, I led a project that used conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems. I worked with faculty [Surbhi Goel](https://www.surbhigoel.com/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). You can read the paper [here](https://arxiv.org/abs/2505.17126).
 
 # Teaching Assistant Positions
 - CIS 5230, Ethical Algorithm Design
