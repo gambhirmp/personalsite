@@ -71,7 +71,7 @@ link_github_username = "gambhirmp"
 menu_links = [
     { url = "$BASE_URL/", name = "About" }, 
     { url = "$BASE_URL/Research-Publications/", name = "Projects/Publications" }, 
-    { url = "$BASE_URL/cv.pdf", name = "CV", new_tab = true},
+    { url = "$BASE_URL/Maya_Gambhir_CV.pdf", name = "CV", new_tab = true},
     #{ url = "$BASE_URL/Paper-Summaries", name = "Paper_Summaries" },
     #{ url = "$BASE_URL/posts/", name = "Research/Publications" },
     #{ url = "$BASE_URL/gallery/", name = "Gallery" },
