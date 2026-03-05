@@ -20,7 +20,7 @@ I’m interested in how algorithmic decision-making systems can be made more fai
 </div>
 
 # **Contact Me**
-- **Email:**  gambhirm@seas.upenn.edu
+- **Email:**  mayagambhir@gmail.com
 - **LinkedIn:** [maya-pal-gambhir](https://www.linkedin.com/in/maya-pal-gambhir/)
 - **Google Scholar:** [Maya Pal Gambhir](https://scholar.google.com/citations?user=B77cCUQAAAAJ&hl=en)
 
