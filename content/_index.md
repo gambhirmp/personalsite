@@ -13,7 +13,7 @@ in_search_index = true
 </div>
 <div class="two-column-content">
 
-Welcome to my personal website! I'm Maya and I am a senior at UPenn in the [Artificial Intelligence major](https://ai.seas.upenn.edu/). I am currently applying to CS PhD programs for Fall 2026.
+Welcome to my personal website! I'm Maya and I am a senior at UPenn in the [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be beginning my PhD in Computer Science in the Center for Information Technology Policy (CITP) at Princeton this fall!
 
 I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints.
 </div>
