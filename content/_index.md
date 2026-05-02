@@ -9,7 +9,7 @@ in_search_index = true
 
 <div class="two-column-section">
 <div class="two-column-image">
-<img src="/website.png" alt="Maya Gambhir">
+<img src="/headshot.jpg" alt="Maya Gambhir">
 </div>
 <div class="two-column-content">
 
