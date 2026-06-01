@@ -13,38 +13,21 @@ in_search_index = true
 </div>
 <div class="two-column-content">
 
-Welcome to my personal website! I'm Maya and I am a senior at UPenn in the [Artificial Intelligence major](https://ai.seas.upenn.edu/). I will be beginning my PhD in Computer Science in the Center for Information Technology Policy (CITP) at Princeton this fall!
+Welcome to my personal website! I'm Maya and I will be beginning my PhD in Computer Science in the Center for Information Technology Policy (CITP) at Princeton this fall with Professors Alexandra Korolova and Jonathan Mayer!
 
 I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints.
 </div>
 </div>
 
 # **Contact Me**
-- **Email:**  mayagambhir@gmail.com
+- **Email:**  gambhir [at] princeton [dot] edu
 - **LinkedIn:** [maya-pal-gambhir](https://www.linkedin.com/in/maya-pal-gambhir/)
 - **Google Scholar:** [Maya Pal Gambhir](https://scholar.google.com/citations?user=B77cCUQAAAAJ&hl=en)
 
----
+# About Me
 
-# Current and Past Work
+I recently graduated from the University of Pennsylvania as part of the first class of graduates in the Artificial Intelligence major (you can read the article about that [here](https://www.seas.upenn.edu/stories/meet-penn-engineerings-first-graduates-in-ai/)!) During my undergrad I worked on a variety of research projects in ML, game theory, and social choice with [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Surbhi Goel](https://www.surbhigoel.com/). 
 
-Currently, I am working my undergraduate thesis with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Surbhi Goel](https://www.surbhigoel.com/), generating synthetic data for evaluating sorition algorithms. 
+# Personal
 
-Previously, I worked with [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) on a minmax optimization algorithm for creating robust and represenative democratic decision making panels, which will be presented as a spotlight at AISTATS 2026. You can read the paper [here](https://arxiv.org/abs/2511.16897). Prior to that, I led a project that used conformal prediction methods to get factuality guarantees on LLM outputs to mathematical reasoning problems. I worked with faculty [Surbhi Goel](https://www.surbhigoel.com/) and [Aaron Roth](https://www.cis.upenn.edu/~aaroth/). You can read the paper [here](https://arxiv.org/abs/2505.17126).
-
-# Teaching Assistant Positions
-- CIS 5230, Ethical Algorithm Design
-- CIS 3333, Mathematics of Machine Learning
-- CIS 1600, Mathematical Foundations of Computer Science
-
-# People I Work(ed) With
-
-*Faculty:* [Surbhi Goel](https://www.surbhigoel.com/) (Penn CS), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) (Penn CS), [Bailey Flanigan](https://sites.google.com/mit.edu/bailey-flanigan/home) (MIT EECS, Political Science)
-
-*Other Collaborators:* [Max Rubin-Toles](https://linktr.ee/maxonbion) (Harvard CS), [Keshav Ramji](https://www.keshavramji.com/) (IBM Research AI)
-
----
-
-# Non-Academic Interests
-
-My main extra-academia passions are in the performing arts! I'm the president of Penn's first and only comedy a capella group, [Penn Six](https://www.instagram.com/pennsixacapella/) (or Pennsylvania Six Five-Thousand). One of my greatest joys is to write and perform both a capella arrangements and comedy skits with these beautiful people. I am also an intermittent beginner guitar player, and a frequent (and passionate) singer of musical theater soundtracks in my car and elsewhere.
+My main extra-academia interests are in the performing arts! UPenn's 34th magazine wrote a [lovely article](https://www.34st.com/article/2026/05/penn-10-duality-maya-gambhir-singing-penn-six-mathematical-theory-phd-princeton) about my experience being defined by such distinct passions. I am also an intermittent beginner guitar player, and a frequent (and passionate) singer of musical theater soundtracks in my car.
