@@ -13,16 +13,17 @@ in_search_index = true
 </div>
 <div class="two-column-content">
 
-Welcome to my personal website! I'm Maya and I will be beginning my PhD in Computer Science in the Center for Information Technology Policy (CITP) at Princeton this fall with Professors Alexandra Korolova and Jonathan Mayer!
+Welcome to my personal website! I'm Maya and I am pursuing my PhD in Computer Science at Princeton's Center for Information Technology Policy (CITP) advised by Professors Alexandra Korolova and Jonathan Mayer!
 
-I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints.
+I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints. My current research investigates the measurability of advertising effectiveness for small businesses, particularly the potential differences between platform reported return on ad spend (ROAS), and true, causal ROAS. 
+
 </div>
 </div>
 
 # **Contact Me**
 - **Email:**  gambhir [at] princeton [dot] edu
 - **LinkedIn:** [maya-pal-gambhir](https://www.linkedin.com/in/maya-pal-gambhir/)
-- **Google Scholar:** [Maya Pal Gambhir](https://scholar.google.com/citations?user=B77cCUQAAAAJ&hl=en)
+- **Google Scholar:** [Maya Pal Gambhir](https://scholar.google.com/citations?user=CprfSS4AAAAJ&hl=en&oi=sra)
 
 # About Me
 
