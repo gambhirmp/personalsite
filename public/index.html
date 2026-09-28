@@ -85,39 +85,50 @@ nav{display:flex;gap:.5rem;margin:1.5rem 0}nav a{flex:1;display:flex;flex-direct
     
 <style>
 .two-column-section {
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
     gap: 2rem;
-    align-items: flex-start;
+    align-items: stretch;
     margin-bottom: 2rem;
 }
 .two-column-content {
-    flex: 1;
+    flex: 1 1 0;
+    min-width: 0;
 }
 .two-column-content > *:last-child {
     margin-bottom: 0;
 }
 .two-column-image {
-    flex: 0 0 300px;
-    max-width: 300px;
+    min-width: 0;
+    min-height: 0;
     margin-top: 0rem;
-    align-self: stretch;
     display: flex;
+    justify-content: center;
+    overflow: hidden;
 }
 .two-column-image img {
+    display: block;
     width: 100%;
     height: 100%;
+    max-width: 100%;
     border-radius: 0.5rem;
     object-fit: cover;
     object-position: top;
 }
 @media (max-width: 768px) {
     .two-column-section {
+        display: flex;
         flex-direction: column;
     }
     .two-column-image {
-        flex: 1;
+        flex: 1 1 auto;
         max-width: 100%;
         margin-top: 1rem;
+    }
+    .two-column-image img {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
     }
 }
 </style>
@@ -145,10 +156,11 @@ nav{display:flex;gap:.5rem;margin:1.5rem 0}nav a{flex:1;display:flex;flex-direct
 <img src="/headshot.jpg" alt="Maya Gambhir">
 </div>
 <div class="two-column-content">
-<p>Welcome to my personal website! I'm Maya and I am pursuing my PhD in Computer Science at Princeton's Center for Information Technology Policy (CITP) advised by Professors Alexandra Korolova and Jonathan Mayer!</p>
-<p>I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints. My current research investigates the measurability of advertising effectiveness for small businesses, particularly the potential differences between platform reported return on ad spend (ROAS), and true, causal ROAS.</p>
+<p>Welcome to my personal website! I'm Maya and I am pursuing my PhD in Computer Science at Princeton's <a href="https://citp.princeton.edu/">Center for Information Technology Policy</a> (CITP) advised by Professors <a href="https://www.korolova.com/">Alexandra Korolova</a> and <a href="https://jonathanmayer.org/">Jonathan Mayer</a>!</p>
+<p>I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints.</p>
 </div>
 </div>
+<p>My current research investigates the measurability of advertising effectiveness for small businesses, particularly the potential differences between platform reported return on ad spend (ROAS), and true, causal ROAS.</p>
 <h1 id="contact-me"><strong>Contact Me</strong></h1>
 <ul>
 <li><strong>Email:</strong>  gambhir [at] princeton [dot] edu</li>

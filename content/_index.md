@@ -15,10 +15,12 @@ in_search_index = true
 
 Welcome to my personal website! I'm Maya and I am pursuing my PhD in Computer Science at Princeton's [Center for Information Technology Policy](https://citp.princeton.edu/) (CITP) advised by Professors [Alexandra Korolova](https://www.korolova.com/) and [Jonathan Mayer](https://jonathanmayer.org/)!
 
-I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints. My current research investigates the measurability of advertising effectiveness for small businesses, particularly the potential differences between platform reported return on ad spend (ROAS), and true, causal ROAS. 
+I’m interested in how algorithmic decision-making systems can be made more fair, accountable, and trustworthy, especially by connecting technical methods with real-world social and policy constraints.
 
 </div>
 </div>
+
+ My current research investigates the measurability of advertising effectiveness for small businesses, particularly the potential differences between platform reported return on ad spend (ROAS), and true, causal ROAS. 
 
 # **Contact Me**
 - **Email:**  gambhir [at] princeton [dot] edu
